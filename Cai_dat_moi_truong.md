@@ -10,9 +10,9 @@ Phiên bản JDK mới nhất hiện nay là JDK 17, hãy sử dụng phiên b�
 
 Link download: [https://www.oracle.com/java/technologies/downloads/](https://www.oracle.com/java/technologies/downloads/)
 
-**2, Công cụ lập trình Java**: có khá nhiều công cụ hỗ trợ lập trình Java có thể kể đến như: Eclipse, Netbean, IntelliJ IDEA, VS Code thậm chí bạn cũng có thể sử dụng note pad để laaoh trình java,...  
+**2, Công cụ lập trình Java**: có khá nhiều công cụ hỗ trợ lập trình Java có thể kể đến như: Eclipse, Netbean, IntelliJ IDEA, VS Code thậm chí bạn cũng có thể sử dụng note pad để lập trình java,...  
 Ở đây, mình khuyên các bạn nên sử dụng IntelliJ IDEA hoặc VSCode.  
-- Với IntelliJ IDEA sẽ có 2 phiên bản cho bạn sử dụng là Community (Bản miễn phí) và Ultimate (Bản có phí).(*Bạn hoàn toàn có thể sử dụng bản miễn phí, nhungws nếu có tiền thì hãy trải nghiệm bản Ultimate nhé vì nó có nhiều tính năng hơn so với bản Community*)    
+- Với IntelliJ IDEA sẽ có 2 phiên bản cho bạn sử dụng là Community (Bản miễn phí) và Ultimate (Bản có phí).(*Bạn hoàn toàn có thể sử dụng bản miễn phí, nhưng nếu có tiền thì hãy trải nghiệm bản Ultimate nhé vì nó có nhiều tính năng hơn so với bản Community*)    
 
 ![image](image/idea.png)  
 
@@ -21,13 +21,13 @@ Link download: [https://www.oracle.com/java/technologies/downloads/](https://www
 ![image](image/vscode.png)
 
 Còn đối với mình, mình thích nhất VS Code ở việc giao diện thân thiện, dễ dàng tuỳ chỉnh và việc thêm chức năng, extension cũng dễ dàng  
-*Lưu ý: Đừng nhầm vs code với visual studio nhé*
+*Lưu ý: Đừng nhầm vs code với visual studio*
 
 
 Link cài đặt:
 - IntelliJ IDEA: [https://www.jetbrains.com/idea/download/#section=linux](https://www.jetbrains.com/idea/download/#section=linux)  
 - VS Code: [https://code.visualstudio.com/](https://code.visualstudio.com/)
 
-Nhớ download phiên bản phù hợp với hệ điều hành mà bạn đang sử dụng nhé  
+Nhớ download phiên bản phù hợp với hệ điều hành mà bạn đang sử dụng   
 
 ***Video hướng dẫn download và cài đặt JDK và VS Code***: [https://www.youtube.com/watch?v=RrYAee6ZrTw&t=3s&ab_channel=TechMasterVietnam](https://www.youtube.com/watch?v=RrYAee6ZrTw&t=3s&ab_channel=TechMasterVietnam)
