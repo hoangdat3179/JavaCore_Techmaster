@@ -1,4 +1,4 @@
-package vn.techmaster.myPackage;
+package vn.techmaster;
 
 import java.time.LocalDate;
 import java.time.LocalDateTime;

@@ -1,13 +1,10 @@
 package vn.techmaster;
 
-import vn.techmaster.myPackage.Date_Time;
-
 public class Main {
 
     public static final double PI = 3.14;
 
     public static void main(String[] args) {
-
 
         Date_Time.getDate();
 //        Date_Time.getTime();
