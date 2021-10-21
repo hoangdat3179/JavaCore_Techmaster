@@ -10,34 +10,34 @@ public class Main {
         System.out.print("Nhập y: ");
         int y = sc.nextInt();
 
-        menu();
-        int choice = sc.nextInt();
 
-        switch (choice){
-            case 1:
-                System.out.println("x+y = " +Calculator.addition(x,y));
-                break;
-            case 2:
-                System.out.println("x-y = " +Calculator.subtraction(x,y));
-                break;
-            case 3:
-                System.out.println("x*y = " +Calculator.multiplication(x,y));
-                break;
-            case 4:
-                System.out.println("x/y = " +Calculator.division(x,y));
-                break;
-            case 0:
-                System.exit(0);
-                break;
-            default:
-                System.out.println("Không có lựa chọn này!!!");
+        boolean isCheck = false;
+        while(!isCheck){
+            menu();
+            int choice = sc.nextInt();
+            switch (choice){
+                case 1:
+                    System.out.println("x+y = " +Calculator.addition(x,y));
+                    break;
+                case 2:
+                    System.out.println("x-y = " +Calculator.subtraction(x,y));
+                    break;
+                case 3:
+                    System.out.println("x*y = " +Calculator.multiplication(x,y));
+                    break;
+                case 4:
+                    System.out.println("x/y = " +Calculator.division(x,y));
+                    break;
+                case 0:
+                    System.exit(1);
+                    //isCheck = true;
+                    break;
+                default:
+                    System.out.println("Không có lựa chọn này!!!");
 
+            }
         }
-
-
-
-
-
+        System.out.println("Done!!!");
 
     }
 
