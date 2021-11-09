@@ -3,8 +3,7 @@ import java.util.Iterator;
 import java.util.List;
 
 public class App {
-    public static void main(String[] args) throws Exception {
-        List<String> listAnimal = new ArrayList<String>(); //Tạo ArrayList
+    public static void main(String[] args)  {
 
 
 
