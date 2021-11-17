@@ -1,0 +1,9 @@
+Class: Chỉ áp dụng  phạm vi truy cập là public và default
+Variable, method, constructor: public, private, protected, default
+
+private: chỉ dược truy cập trong cùng một class
+protected: Chỉ được truy cập trong cùng class, subclass, package
+default: Chỉ được truy cập trong class hoặc package
+public: truy cập bất kỳ class, subclass và package
+
+private < default < protected < public
