@@ -80,6 +80,9 @@ Phần tử đầu tiên: 10
 Danh sách sau khi xóa: 
 15	20	25	
 ```
+
+*Code tham khảo:* [https://github.com/EriChannel/JavaCore_Techmaster/tree/main/03_Advance_Topics/03_Collections/QueueInterface/DemoLinkedList](https://github.com/EriChannel/JavaCore_Techmaster/tree/main/03_Advance_Topics/03_Collections/QueueInterface/DemoLinkedList)
+
 </br>
 
 ## PriorityQueue  
@@ -130,6 +133,8 @@ Phần tử đầu tiên: 5
 Danh sách ban đầu: 
 1	9	7	
 ```
+
+*Code tham khảo:*  [https://github.com/EriChannel/JavaCore_Techmaster/tree/main/03_Advance_Topics/03_Collections/QueueInterface/DemoPriorityQueue](https://github.com/EriChannel/JavaCore_Techmaster/tree/main/03_Advance_Topics/03_Collections/QueueInterface/DemoPriorityQueue)
 
 Ở đây mình tạo một PriorityQueue có tên numbers. Mặc dù phần tử phần tử 5 được thêm vào trước phần tử 3 nhưng phần tử 3 lại là phần tử đầu tiên. Đó là do phần tử 3 là phần tử nhỏ nhất của queue    
 Tiếp theo mình thêm phần tử 1 vào queue nhưng phần tử 1 lại trở thành phần tử đầu tiên mặc dù được thêm vào sau cùng  
@@ -185,6 +190,8 @@ Danh sách sau khi thêm:
 [1, 6, 9, 7]
 Phần tử đầu tiên : 1
 ```  
+
+*Code tham khảo:* [https://github.com/EriChannel/JavaCore_Techmaster/tree/main/03_Advance_Topics/03_Collections/QueueInterface/DemoPriorityBlockingQueue](https://github.com/EriChannel/JavaCore_Techmaster/tree/main/03_Advance_Topics/03_Collections/QueueInterface/DemoPriorityBlockingQueue)
 
 Có thể thấy, tương tự như PriorityQueue, PriorityBlockingQueue cũng sắp xếp phần tử theo thứ tự ưu tiên.  
 
