@@ -25,7 +25,7 @@ public class ReadFile {
             JSONArray personList = (JSONArray) obj;  //JSONArray: để ghi dữ liệu trong mảng json
 
             for (Object person: personList) {
-                parseCustomerObject((JSONObject)person);  
+                parseCustomerObject((JSONObject)person);
             }
 
 
@@ -43,5 +43,6 @@ public class ReadFile {
         String address = (String) jsonObject.get("address");
 
         System.out.println(name + " - " + age + " - " + address);
+
     }
 }

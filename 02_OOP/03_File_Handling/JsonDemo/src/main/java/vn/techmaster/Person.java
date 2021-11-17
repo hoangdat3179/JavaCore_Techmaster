@@ -2,10 +2,10 @@ package vn.techmaster;
 
 public class Person {
     String name;
-    int age;
+    long age;
     String address;
 
-    public Person(String name, int age, String address) {
+    public Person(String name, long age, String address) {
         this.name = name;
         this.age = age;
         this.address = address;
@@ -19,7 +19,7 @@ public class Person {
         this.name = name;
     }
 
-    public int getAge() {
+    public long getAge() {
         return age;
     }
 
@@ -33,5 +33,10 @@ public class Person {
 
     public void setAddress(String address) {
         this.address = address;
+    }
+
+    @Override
+    public String toString() {
+        return name + " - " + age + " - " + address;
     }
 }

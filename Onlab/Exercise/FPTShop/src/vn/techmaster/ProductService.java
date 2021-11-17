@@ -1,5 +1,7 @@
 package vn.techmaster;
 
+import java.util.Locale;
+
 public class ProductService {
     ProductRepo repo = new ProductRepo();
 
@@ -10,11 +12,6 @@ public class ProductService {
     }
 
     public void getProductByCategory(Category category){
-//        for(int i = 0; i < repo.listProduct.size(); i++){
-//            if(repo.listProduct.get(i).getCategory() == category){
-//                System.out.println(repo.listProduct.get(i));
-//            }
-//        }
         int count = 0;
         for (Product p: repo.listProduct) {
             if(p.getCategory() == category){
@@ -125,7 +122,7 @@ public class ProductService {
     public void searchProductByName(String name){
         int count = 0;
         for (Product p : repo.listProduct) {
-            if(p.getName().contains(name)){
+            if(p.getName().toLowerCase().contains(name.toLowerCase())){
                 System.out.println(p);
                 count++;
             }

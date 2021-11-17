@@ -30,3 +30,5 @@
 - Functional Interface
 - Stream
 - Lambda Expression, method references
+- Multithread
+- Kết nối cơ sở dữ liệu với trong Java với JPA
