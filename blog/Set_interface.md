@@ -193,3 +193,5 @@ Kết quả trả về:
 [1, 3, 5]
 Sắp xếp theo thứ tự giảm dần: [5, 3, 1]
 ```
+
+*Code tham khảo:* [https://github.com/EriChannel/JavaCore_Techmaster/tree/main/03_Advance_Topics/03_Collections/SetInterface](https://github.com/EriChannel/JavaCore_Techmaster/tree/main/03_Advance_Topics/03_Collections/SetInterface)
