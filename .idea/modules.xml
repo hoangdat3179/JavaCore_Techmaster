@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Onlab/Lesson_02/DemoString/DemoString.iml" filepath="$PROJECT_DIR$/Onlab/Lesson_02/DemoString/DemoString.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Onlab/Lesson_03/Input_Output/Input_Output.iml" filepath="$PROJECT_DIR$/Onlab/Lesson_03/Input_Output/Input_Output.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaCore_Techmaster.iml" filepath="$PROJECT_DIR$/.idea/JavaCore_Techmaster.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Onlab/Lesson_01/Lesson_01.iml" filepath="$PROJECT_DIR$/Onlab/Lesson_01/Lesson_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Onlab/Lesson_04/Lesson_04.iml" filepath="$PROJECT_DIR$/Onlab/Lesson_04/Lesson_04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Onlab/Lesson_05/Lesson_05.iml" filepath="$PROJECT_DIR$/Onlab/Lesson_05/Lesson_05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Onlab/Lesson_02/TypeConversion/TypeConversion.iml" filepath="$PROJECT_DIR$/Onlab/Lesson_02/TypeConversion/TypeConversion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Onlab/Lesson_02/demo/demo.iml" filepath="$PROJECT_DIR$/Onlab/Lesson_02/demo/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Onlab/Lesson_03/exercise/exercise.iml" filepath="$PROJECT_DIR$/Onlab/Lesson_03/exercise/exercise.iml" />
+    </modules>
+  </component>
+</project>
