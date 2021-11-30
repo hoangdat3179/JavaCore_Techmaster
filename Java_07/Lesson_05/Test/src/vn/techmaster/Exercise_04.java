@@ -1,7 +1,7 @@
 package vn.techmaster;
 
 public class Exercise_04 {
-    //Liệt kê các số nguyên tố nhỏ hơn 10
+    //Liệt kê 10 số nguyên tố đầu tiên
     public static void printFirst10PrimeNumber(int n){
         int number = 0;
         int count = 0;
@@ -16,8 +16,8 @@ public class Exercise_04 {
         }
     }
 
-    //Liệt kê 10 số nguyên tố đầu tiên
 
+    //Liệt kê các số nguyên tố nhỏ hơn 10
     public static void printPrimeNumberLessThan10(int n){
         System.out.printf("Các số nguyên tố nhỏ hơn %d: ", n);
         for(int i = 0; i < n; i++){

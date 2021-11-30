@@ -37,8 +37,20 @@ public class Main {
             persons[i] = p; //gán đối tượng mới cho mảng ở vị trí i
         }
 
+        System.out.println("Danh sách: ");
         for(int i = 0; i <n; i++){
             System.out.println(persons[i]);
         }
+
+        //Tìm kiếm theo tên
+        System.out.println("Nhập tên bạn muốn tìm kiếm: ");
+        String findName = sc.nextLine();
+        for(int i = 0; i < n; i++){
+            if(persons[i].name.contains(findName)){
+                System.out.println(persons[i]);
+            }
+        }
+
+
     }
 }
