@@ -39,8 +39,7 @@ public class Main {
 
 
         }
-        service.getListFilm(listFilm);
-        service.insertFilm(listFilm);
+
     }
 
     public static void menu(){
